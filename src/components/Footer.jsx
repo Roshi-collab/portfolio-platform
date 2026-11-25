@@ -91,7 +91,7 @@ function Footer() {
               </a>
 
               <a href="#home" className="hover:underline">
-                Back to top ↑
+                Back to top 
               </a>
 
             </div>

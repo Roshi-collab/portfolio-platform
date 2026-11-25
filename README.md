@@ -57,19 +57,19 @@ I also used the useEffect hook to save updated projects to localStorage whenever
 
 ## React Concepts Applied
 
-- Functional components
-- Component hierarchy
-- Props and destructuring
-- State management using useState
-- Side effects using useEffect
-- Lifting state up
-- Controlled components
-- Event handling using onChange and onSubmit
-- Conditional rendering
-- List rendering using map()
-- Search functionality using filter()
-- Immutable state updates using the spread operator
-- Callback functions
+-Functional components
+-Component hierarchy
+-Props and destructuring
+-State management using useState
+-Side effects using useEffect
+-Lifting state up
+-Controlled components
+-Event handling using onChange and onSubmit
+-Conditional rendering
+-List rendering using map()
+-earch functionality using filter()
+-Immutable state updates using the spread operator
+-Callback functions
 
 ## Design and Styling
 
@@ -97,13 +97,12 @@ I used Jest and React Testing Library to perform automated testing.
 
 The following functionalities were tested:
 
-| Test | Result |
-|---|---|
-| Rendering initial projects | Passed |
-| Filtering projects using search | Passed |
-| Displaying an empty search results message | Passed |
-| Adding a new project | Passed |
-| Portfolio navigation | Passed |
+ Test Result 
+Rendering initial projects Passed 
+ Filtering projects using search | Passed 
+Displaying an empty search results message Passed 
+Adding a new project Passed 
+Portfolio navigation  Passed 
 
 All five automated tests passed successfully.
 
@@ -129,11 +128,11 @@ Plantsy and Toy Tales are coursework projects with illustrative placeholder imag
 
 ## Future Improvements
 
-- Implement a backend for permanent, shared data storage.
-- Add edit and delete project functionality.
-- Implement user authentication.
-- Allow users to upload project images directly.
-- Expand automated test coverage.
+-Implement a backend for permanent, shared data storage.
+-Add edit and delete project functionality.
+-Implement user authentication.
+-Allow users to upload project images directly.
+-Expand automated test coverage.
 
 ## What I Learned
 
